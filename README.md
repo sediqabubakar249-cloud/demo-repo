@@ -6,13 +6,11 @@ This is a simple HTML project created as part of a front-end development class. 
 
 The purpose of this project is to get familiar with the basic building blocks of a web page using HTML5. It includes:
 
-A main heading (<h1>)
+- A main heading
+- A paragraph (`<p>`) with placeholder text
+- A hyperlink (<a>) that redirects to a GitHub repository
 
-A paragraph (<p>) with placeholder text
-
-A hyperlink (<a>) that redirects to a GitHub repository
-
-🧩 Technologies Used
+## 🧩 Technologies Used
 
 HTML5 — The markup language used to structure the web content.
 
