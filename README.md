@@ -35,5 +35,4 @@ A simple webpage showing a heading, paragraph, and a link to the GitHub profile.
 
 👤 Author
 
-Abubakr Sediq Abubakar
-GitHub Profile
+Abubakr Sediq
